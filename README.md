@@ -28,3 +28,15 @@
 
 ### Apex Best Practices
 (Link)[https://developer.salesforce.com/page/Apex_Code_Best_Practices]
+
+### Process Builder vs. Workflow
+* Create a record of any object type
+* Update any related record—not just the record or its parent
+* Use a quick action to create a record, update a record, or log a call
+* Invoke a process from another process
+* Launch a flow—you can’t schedule this action with workflow
+* Send an email
+* Post to Chatter
+* Submit a record for approval
+
+* Workflow rules – An automation tool that can evaluate an argument, and kick off an automation function. These functions can include a field update, sending an email message, creating a task, or sending an outbound message. A workflow can only evaluate a single criteria before it either triggers the automation or does not.
