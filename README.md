@@ -8,11 +8,12 @@
 #### [How To](https://developer.salesforce.com/forums/?id=9060G000000MVZaQAO)
 
 ## Interview Question Bank
-  #### [Developers](https://www.salesforceben.com/30-salesforce-developer-interview-questions-answers/)
-  #### [Admin](https://www.salesforceben.com/30-salesforce-admin-interview-questions/)
-  #### [Consultant](https://www.salesforceben.com/30-salesforce-consultant-interview-questions-answers/)
-  #### [Top 50](https://www.edureka.co/blog/interview-questions/salesforce-interview-questions/)
-  #### [masonfrank:developer](https://www.masonfrank.com/salesforce-blog/salesforce-developer-interview-questions/)
+  #### [Salesforceben - Developers](https://www.salesforceben.com/30-salesforce-developer-interview-questions-answers/)
+  #### [Salesforceben - Admin](https://www.salesforceben.com/30-salesforce-admin-interview-questions/)
+  #### [Salesforceben - Consultant](https://www.salesforceben.com/30-salesforce-consultant-interview-questions-answers/)
+  #### [eureka.com - Top 50](https://www.edureka.co/blog/interview-questions/salesforce-interview-questions/)
+  #### [masonfrank - developer](https://www.masonfrank.com/salesforce-blog/salesforce-developer-interview-questions/)
+  #### [masonfrank - admin](https://www.masonfrank.com/salesforce-blog/salesforce-administrator-interview-questions/)
   #### [intellipaat](https://intellipaat.com/interview-question/salesforce-interview-questions/)
-  #### [masonfran:admin](https://www.masonfrank.com/salesforce-blog/salesforce-administrator-interview-questions/)
+
 
