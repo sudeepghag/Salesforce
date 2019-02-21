@@ -19,4 +19,9 @@
   #### [masonfrank - admin](https://www.masonfrank.com/salesforce-blog/salesforce-administrator-interview-questions/)
   #### [intellipaat](https://intellipaat.com/interview-question/salesforce-interview-questions/)
 
-
+### Governor Limits
+* Total number of records retrieved by a SOQL query – 50,000
+* Total number of SOQL queries issued – 100 (Synchronous) 200 (Asynchronous)
+* Total number of DML statements issued – 150
+* Total number of callouts (HTTP requests or Web services calls) in a transaction – 100
+* Maximum CPU time on the Salesforce servers – 10,000ms (Synchronous) 60,000ms (Asynchronous)
