@@ -25,3 +25,6 @@
 * Total number of DML statements issued – 150
 * Total number of callouts (HTTP requests or Web services calls) in a transaction – 100
 * Maximum CPU time on the Salesforce servers – 10,000ms (Synchronous) 60,000ms (Asynchronous)
+
+### Apex Best Practices
+(Link)[https://developer.salesforce.com/page/Apex_Code_Best_Practices]
