@@ -43,3 +43,7 @@
 
 ### oAuth
 #### (Digging Deeper into OAuth 2.0 in Salesforce)[https://help.salesforce.com/articleView?id=remoteaccess_authenticate_overview.htm]
+
+### Salesforce Connect
+#### (Set Up Salesforce Connect to Access External Data with a Custom Adapter)[https://help.salesforce.com/articleView?id=apex_adapter_setup.htm&type=5]
+#### (Get Started with the Apex Connector Framework)[https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_connector_start.htm]
