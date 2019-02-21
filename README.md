@@ -40,3 +40,6 @@
 * Submit a record for approval
 
 * Workflow rules – An automation tool that can evaluate an argument, and kick off an automation function. These functions can include a field update, sending an email message, creating a task, or sending an outbound message. A workflow can only evaluate a single criteria before it either triggers the automation or does not.
+
+### oAuth
+#### (Digging Deeper into OAuth 2.0 in Salesforce)[https://help.salesforce.com/articleView?id=remoteaccess_authenticate_overview.htm]
