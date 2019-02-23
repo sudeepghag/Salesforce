@@ -18,6 +18,7 @@
   #### [masonfrank - developer](https://www.masonfrank.com/salesforce-blog/salesforce-developer-interview-questions/)
   #### [masonfrank - admin](https://www.masonfrank.com/salesforce-blog/salesforce-administrator-interview-questions/)
   #### [intellipaat](https://intellipaat.com/interview-question/salesforce-interview-questions/)
+  #### [howtodoitinsalesforce](https://howtodoitinsalesforce.blogspot.com/2017/02/salesforce-interview-questions-part-1.html)
 
 ### Governor Limits
 * Total number of records retrieved by a SOQL query – 50,000
