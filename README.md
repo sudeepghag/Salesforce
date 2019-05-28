@@ -9,6 +9,10 @@
 
 ### Deployment - Change Sets
 #### [Change Sets](https://help.salesforce.com/articleView?id=deploy_overview.htm&type=5)
+https://help.salesforce.com/articleView?id=changesets_best_practices.htm&type=5
+https://developer.salesforce.com/forums/?id=9060G000000IAvzQAG
+https://www.panaya.com/blog/salesforce/salesforce-change-sets/
+
 
 ## Interview Question Bank
   #### [Salesforceben - Developers](https://www.salesforceben.com/30-salesforce-developer-interview-questions-answers/)
