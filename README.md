@@ -14,7 +14,7 @@ https://developer.salesforce.com/forums/?id=9060G000000IAvzQAG
 https://www.panaya.com/blog/salesforce/salesforce-change-sets/
 
 #### CI-CD:
-##### [How to Setup Continuous Integration with Git, Jenkins, and Force.com](http://www.youtube.com/watch?v=a0u1CBUsj_I)
+##### [How to Setup Continuous Integration with Git, Jenkins, and Force.com](https://github.com/DreamOps/continuous-delivery/wiki)
 ##### https://developer.salesforce.com/forums/?id=9060G0000005qmDQAQ
 
 
